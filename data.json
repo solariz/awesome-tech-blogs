@@ -36,6 +36,14 @@
     ]
   },
   {
+      "name": "Marco Goetze",
+      "description": "Doing Network Stuff, writing tech Things...",
+      "url": "https://solariz.de",
+      "twitter": "@solariz",
+      "linkedin": "marcogoetze",
+      "tags": ["Networking", "Computer Networking", "DevOps", "Python", "Tech", "Open Source", "Computer Science", "Cloud"],
+  },  
+  {
     "name": "Rohit Singh",
     "description": "A Frontend reactjs developer and technical writer",
     "url": "https://rohitsingh.vercel.app/",
